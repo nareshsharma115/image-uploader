@@ -1,2 +1,2 @@
 # helloworld
-my journey for webdev
+the above is my first cover page for uploading your pic
